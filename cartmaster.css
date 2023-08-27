@@ -104,3 +104,16 @@
             justify-content: space-between;
             align-items: center;
           }
+          .red-button {
+            margin-right: 288px;
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 16px 36px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
